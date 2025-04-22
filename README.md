@@ -11,3 +11,12 @@ Explore and categorize content based on specific criteria and keywords.
 Dataset: 
 The dataset used in this project is a publicly available collection of Netflix's movies and TV shows, on platforms like Kaggle. It contains comprehensive details about the titles available on Netflix as of the time the data was collected.
 Dataset Link: Movies Dataset
+
+
+
+
+ 
+  
+
+
+   
